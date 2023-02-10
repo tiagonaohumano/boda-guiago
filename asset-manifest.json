@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/boda-guiago/static/css/main.05cdaec9.css",
+    "main.js": "/boda-guiago/static/js/main.dd73cfdd.js",
+    "static/media/Guiago_16.jpg": "/boda-guiago/static/media/Guiago_16.907692f89c6bc861d14d.jpg",
+    "index.html": "/boda-guiago/index.html",
+    "main.05cdaec9.css.map": "/boda-guiago/static/css/main.05cdaec9.css.map",
+    "main.dd73cfdd.js.map": "/boda-guiago/static/js/main.dd73cfdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05cdaec9.css",
+    "static/js/main.dd73cfdd.js"
+  ]
+}
