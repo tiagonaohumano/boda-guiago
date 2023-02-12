@@ -9,7 +9,7 @@ const Alojamientos = () => {
             <div className='max-w-[1240px] mx-auto text-white relative'>
                 <div className='px-4 py-6'>
                     <h2 className='text-5xl font-bold py-8 text-center title text-teal-900'>Alojamientos</h2>
-                    <p className='py-4 px-10 md:text-2xl text-center text-1xl text-black'>Estos últimos años Rascafría se ha convertido en un lugar muy popular para celebrar bodas.
+                    <p className='py-4 px-10 md:text-3xl text-center text-2xl text-black'>Estos últimos años Rascafría se ha convertido en un lugar muy popular para celebrar bodas.
                         Cuando tomamos la decisión el pasado mes de noviembre ya estaban ocupados prácticamente todos
                         los alojamientos del Valle de El Paular. Por eso la opción que os recomendamos es que el punto
                         de partida sea Madrid y utilicéis el autobús que contrataremos para llegar al sitio de la boda.

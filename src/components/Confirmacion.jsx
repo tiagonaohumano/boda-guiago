@@ -38,7 +38,7 @@ export default function Confirmacion() {
 
   return (
     
-    <div className="mt-8 mx-auto sm:w-full">
+    <div name="confirmacion" className="mt-8 mx-auto sm:w-full">
       <h2 className='text-5xl font-bold py-10 text-center title text-teal-900'>Confirmación</h2>
       <div className="bg-slate-100 py-8 mt-10 mb-40 shadow rounded-lg px-5 md:w-[600px] mx-auto">
         <form className="mb-0 space-y-8" action="#" method="POST" onSubmit={(e) => Submit(e)}>
