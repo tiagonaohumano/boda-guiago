@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a23fd810.css",
-    "main.js": "/static/js/main.b4fe0ddb.js",
+    "main.css": "/static/css/main.7aac90af.css",
+    "main.js": "/static/js/main.ba376f5c.js",
     "static/media/Guiago_07.jpg": "/static/media/Guiago_07.98de55b5298fe2a93ff8.jpg",
     "index.html": "/index.html",
-    "main.a23fd810.css.map": "/static/css/main.a23fd810.css.map",
-    "main.b4fe0ddb.js.map": "/static/js/main.b4fe0ddb.js.map"
+    "main.7aac90af.css.map": "/static/css/main.7aac90af.css.map",
+    "main.ba376f5c.js.map": "/static/js/main.ba376f5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a23fd810.css",
-    "static/js/main.b4fe0ddb.js"
+    "static/css/main.7aac90af.css",
+    "static/js/main.ba376f5c.js"
   ]
 }
